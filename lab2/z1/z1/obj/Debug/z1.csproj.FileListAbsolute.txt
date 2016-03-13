@@ -1,0 +1,6 @@
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\bin\Debug\z1.exe.config
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\bin\Debug\z1.exe
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\bin\Debug\z1.pdb
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\obj\Debug\z1.csprojResolveAssemblyReference.cache
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\obj\Debug\z1.exe
+c:\users\janek\documents\visual studio 2015\Projects\DotNET\lab2\z1\z1\obj\Debug\z1.pdb
