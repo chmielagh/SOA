@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll.config
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab4\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.pdb
