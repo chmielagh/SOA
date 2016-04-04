@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\bin\Debug\ObjectsManager.Model.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\bin\Debug\ObjectsManager.Model.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\bin\Debug\LiteDB.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\bin\Debug\LiteDB.xml
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\obj\Debug\ObjectsManager.Model.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\obj\Debug\ObjectsManager.Model.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\ObjectsManager.Model\ObjectsManager.Model\obj\Debug\ObjectsManager.Model.pdb

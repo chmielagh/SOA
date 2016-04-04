@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Model", "ObjectsManager.Model\ObjectsManager.Model.csproj", "{566C9D74-96F2-464E-922A-4B15F0E76B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Interfaces", "..\ObjectsManager.Interfaces\ObjectsManager.Interfaces.csproj", "{A8BC0D50-F0B1-4096-99E7-10BC9ECFC2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.LiteDB", "..\ObjectsManager.LiteDB\ObjectsManager.LiteDB.csproj", "{88A05C1D-9715-4AC6-96B6-17982AF08DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDServices.MovieService", "..\CRUDServices.MovieService\CRUDServices.MovieService.csproj", "{4845210D-E7A7-46A0-BE93-143E4C527486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDServices.PersonService", "..\CRUDServices.PersonService\CRUDServices.PersonService.csproj", "{6ABA216B-E0E4-4B96-8812-DDD27CBB0712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDServices.ReviewService", "..\CRUDServices.ReviewService\CRUDServices.ReviewService.csproj", "{27CC32D4-0204-4254-BAE6-D16C918C4735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566C9D74-96F2-464E-922A-4B15F0E76B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566C9D74-96F2-464E-922A-4B15F0E76B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566C9D74-96F2-464E-922A-4B15F0E76B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566C9D74-96F2-464E-922A-4B15F0E76B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BC0D50-F0B1-4096-99E7-10BC9ECFC2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BC0D50-F0B1-4096-99E7-10BC9ECFC2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BC0D50-F0B1-4096-99E7-10BC9ECFC2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BC0D50-F0B1-4096-99E7-10BC9ECFC2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A05C1D-9715-4AC6-96B6-17982AF08DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A05C1D-9715-4AC6-96B6-17982AF08DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A05C1D-9715-4AC6-96B6-17982AF08DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A05C1D-9715-4AC6-96B6-17982AF08DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4845210D-E7A7-46A0-BE93-143E4C527486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4845210D-E7A7-46A0-BE93-143E4C527486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4845210D-E7A7-46A0-BE93-143E4C527486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4845210D-E7A7-46A0-BE93-143E4C527486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABA216B-E0E4-4B96-8812-DDD27CBB0712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABA216B-E0E4-4B96-8812-DDD27CBB0712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABA216B-E0E4-4B96-8812-DDD27CBB0712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABA216B-E0E4-4B96-8812-DDD27CBB0712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CC32D4-0204-4254-BAE6-D16C918C4735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC32D4-0204-4254-BAE6-D16C918C4735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC32D4-0204-4254-BAE6-D16C918C4735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC32D4-0204-4254-BAE6-D16C918C4735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

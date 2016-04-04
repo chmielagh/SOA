@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\CRUDServices.ReviewService.dll.config
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\CRUDServices.ReviewService.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\CRUDServices.ReviewService.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.Interfaces.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.LiteDB.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.Model.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\LiteDB.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.Interfaces.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.LiteDB.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\ObjectsManager.Model.pdb
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\bin\Debug\LiteDB.xml
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\obj\Debug\CRUDServices.ReviewService.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\obj\Debug\CRUDServices.ReviewService.dll
+D:\Documents\Visual Studio 2015\Projects\DotNET\lab5\CRUDServices.ReviewService\obj\Debug\CRUDServices.ReviewService.pdb
